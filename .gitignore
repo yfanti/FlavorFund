@@ -1,0 +1,35 @@
+# .NET Core / .NET MAUI
+bin/
+obj/
+.vs/
+.vscode/
+.idea/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+# Windows Installer files
+Thumbs.db
+Desktop.ini
+# macOS
+.DS_Store
+# Windows image file caches
+ehthumbs.db
+# JetBrains Rider
+.idea/
+# .NET Core and .NET MAUI configurations
+project.lock.json
+project.fragment.lock.json
+# NuGet
+*.nupkg
+# Windows Installer
+*.cab
+*.msi
+*.msm
+*.msp
